@@ -1,4 +1,4 @@
-# The Wanteng Golang project simulation client
+# Golang project simulation client
 
 >: 模拟socket终端与服务端进行交互
 
